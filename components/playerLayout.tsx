@@ -1,5 +1,5 @@
-import {Box} from '@chakra-ui/layout'
-import Sidebar from './sidebar'
+import { Box } from '@chakra-ui/layout';
+import Sidebar from './sidebar';
 
 function PlayerLayout({ children }): JSX.Element {
   return (
@@ -15,4 +15,4 @@ function PlayerLayout({ children }): JSX.Element {
   );
 }
 
-export default PlayerLayout;
+export default PlayerLayout

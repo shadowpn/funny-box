@@ -2,6 +2,7 @@ import {ChakraProvider, extendTheme} from '@chakra-ui/react';
 import PlayerLayout from '../components/playerLayout';
 import 'reset-css';
 
+
 const theme = extendTheme ({
   colors: {
     gray: {
