@@ -106,9 +106,9 @@
     "@chakra-ui/spinner" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
 
-"@chakra-ui/checkbox@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/checkbox/-/checkbox-2.0.0.tgz#cee27946660a9f404940b24228e5e98470c12d19"
+"@chakra-ui/checkbox@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/checkbox/-/checkbox-2.0.1.tgz#d1d599c6269cbce015df489ac8610de5ea6de2ab"
   dependencies:
     "@chakra-ui/form-control" "2.0.0"
     "@chakra-ui/hooks" "2.0.0"
@@ -130,12 +130,11 @@
     "@chakra-ui/icon" "3.0.0"
     "@chakra-ui/utils" "2.0.0"
 
-"@chakra-ui/color-mode@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/color-mode/-/color-mode-2.0.0.tgz#dfe4143f35cc8df7972f7a441a65ec1eb94750e0"
+"@chakra-ui/color-mode@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/color-mode/-/color-mode-2.0.2.tgz#19d5659620e098b231da3971facefb3335d20d46"
   dependencies:
     "@chakra-ui/hooks" "2.0.0"
-    "@chakra-ui/react-env" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
 
 "@chakra-ui/control-box@2.0.0":
@@ -314,14 +313,14 @@
     "@chakra-ui/theme-tools" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
 
-"@chakra-ui/provider@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/provider/-/provider-2.0.0.tgz#5310df4cc9b43f9aecfa729fb721e548d63a1a71"
+"@chakra-ui/provider@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/provider/-/provider-2.0.2.tgz#c261a73a65c270978af358b0101798c46edadfaa"
   dependencies:
     "@chakra-ui/css-reset" "2.0.0"
     "@chakra-ui/portal" "2.0.0"
     "@chakra-ui/react-env" "2.0.0"
-    "@chakra-ui/system" "2.0.0"
+    "@chakra-ui/system" "2.0.2"
     "@chakra-ui/utils" "2.0.0"
 
 "@chakra-ui/radio@2.0.0":
@@ -346,16 +345,16 @@
   dependencies:
     "@chakra-ui/utils" "^2.0.0"
 
-"@chakra-ui/react@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/react/-/react-2.0.0.tgz#1fb676d50a39892cd4546a16f7c28506a9cac71e"
+"@chakra-ui/react@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/react/-/react-2.0.2.tgz#90b47c39b26a962c2a3a95ca93e4114567cbf0a3"
   dependencies:
     "@chakra-ui/accordion" "2.0.0"
     "@chakra-ui/alert" "2.0.0"
     "@chakra-ui/avatar" "2.0.0"
     "@chakra-ui/breadcrumb" "2.0.0"
     "@chakra-ui/button" "2.0.0"
-    "@chakra-ui/checkbox" "2.0.0"
+    "@chakra-ui/checkbox" "2.0.1"
     "@chakra-ui/close-button" "2.0.0"
     "@chakra-ui/control-box" "2.0.0"
     "@chakra-ui/counter" "2.0.0"
@@ -377,22 +376,22 @@
     "@chakra-ui/popper" "3.0.0"
     "@chakra-ui/portal" "2.0.0"
     "@chakra-ui/progress" "2.0.0"
-    "@chakra-ui/provider" "2.0.0"
+    "@chakra-ui/provider" "2.0.2"
     "@chakra-ui/radio" "2.0.0"
     "@chakra-ui/react-env" "2.0.0"
     "@chakra-ui/select" "2.0.0"
-    "@chakra-ui/skeleton" "2.0.0"
+    "@chakra-ui/skeleton" "2.0.2"
     "@chakra-ui/slider" "2.0.0"
     "@chakra-ui/spinner" "2.0.0"
     "@chakra-ui/stat" "2.0.0"
-    "@chakra-ui/switch" "2.0.0"
-    "@chakra-ui/system" "2.0.0"
+    "@chakra-ui/switch" "2.0.1"
+    "@chakra-ui/system" "2.0.2"
     "@chakra-ui/table" "2.0.0"
     "@chakra-ui/tabs" "2.0.0"
     "@chakra-ui/tag" "2.0.0"
     "@chakra-ui/textarea" "2.0.0"
-    "@chakra-ui/theme" "2.0.0"
-    "@chakra-ui/toast" "2.0.0"
+    "@chakra-ui/theme" "2.0.1"
+    "@chakra-ui/toast" "2.0.2"
     "@chakra-ui/tooltip" "2.0.0"
     "@chakra-ui/transition" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
@@ -405,13 +404,13 @@
     "@chakra-ui/form-control" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
 
-"@chakra-ui/skeleton@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/skeleton/-/skeleton-2.0.0.tgz#b728b718ff9fe1f73e06a37aaaff60f58ed8b444"
+"@chakra-ui/skeleton@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/skeleton/-/skeleton-2.0.2.tgz#2886f2b0013544e43decb9a768489f7a4b748c95"
   dependencies:
     "@chakra-ui/hooks" "2.0.0"
     "@chakra-ui/media-query" "3.0.0"
-    "@chakra-ui/system" "2.0.0"
+    "@chakra-ui/system" "2.0.2"
     "@chakra-ui/utils" "2.0.0"
 
 "@chakra-ui/slider@2.0.0":
@@ -444,18 +443,18 @@
     "@chakra-ui/utils" "2.0.0"
     csstype "^3.0.11"
 
-"@chakra-ui/switch@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/switch/-/switch-2.0.0.tgz#cfe51c53e234f621877cd75b45f7dbb8fdd2ba39"
+"@chakra-ui/switch@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/switch/-/switch-2.0.1.tgz#87db518f31433529e59f1fa604c21dd9fd030190"
   dependencies:
-    "@chakra-ui/checkbox" "2.0.0"
+    "@chakra-ui/checkbox" "2.0.1"
     "@chakra-ui/utils" "2.0.0"
 
-"@chakra-ui/system@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/system/-/system-2.0.0.tgz#f45ef3a2d9b655927223222be0aa9647d9139173"
+"@chakra-ui/system@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/system/-/system-2.0.2.tgz#cfa19f534f9b29efc50f843594601d3f19727f58"
   dependencies:
-    "@chakra-ui/color-mode" "2.0.0"
+    "@chakra-ui/color-mode" "2.0.2"
     "@chakra-ui/react-utils" "2.0.0"
     "@chakra-ui/styled-system" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
@@ -498,25 +497,25 @@
     "@chakra-ui/utils" "2.0.0"
     "@ctrl/tinycolor" "^3.4.0"
 
-"@chakra-ui/theme@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/theme/-/theme-2.0.0.tgz#433ee25ec812e445f2c3801cb08c722712f010bd"
+"@chakra-ui/theme@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/theme/-/theme-2.0.1.tgz#b27919dacbc2c8b1f72dabfca99c1aeaad435bc4"
   dependencies:
     "@chakra-ui/anatomy" "2.0.0"
     "@chakra-ui/theme-tools" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
 
-"@chakra-ui/toast@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/toast/-/toast-2.0.0.tgz#f145902965ddbc330a12608bd52a3eced79c486b"
+"@chakra-ui/toast@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/toast/-/toast-2.0.2.tgz#f93714e26fbdc54425450ba59f74841afcb92365"
   dependencies:
     "@chakra-ui/alert" "2.0.0"
     "@chakra-ui/close-button" "2.0.0"
     "@chakra-ui/hooks" "2.0.0"
     "@chakra-ui/portal" "2.0.0"
     "@chakra-ui/react-utils" "2.0.0"
-    "@chakra-ui/system" "2.0.0"
-    "@chakra-ui/theme" "2.0.0"
+    "@chakra-ui/system" "2.0.2"
+    "@chakra-ui/theme" "2.0.1"
     "@chakra-ui/transition" "2.0.0"
     "@chakra-ui/utils" "2.0.0"
 
@@ -848,9 +847,9 @@
   version "4.14.182"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.182.tgz#05301a4d5e62963227eaafe0ce04dd77c54ea5c2"
 
-"@types/node@^17.0.33":
-  version "17.0.33"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.33.tgz#3c1879b276dc63e73030bb91165e62a4509cd506"
+"@types/node@^17.0.34":
+  version "17.0.34"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.34.tgz#3b0b6a50ff797280b8d000c6281d229f9c538cef"
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -860,7 +859,7 @@
   version "15.7.5"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
 
-"@types/react-dom@^18.0.4":
+"@types/react-dom@^18.2.0":
   version "18.0.4"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.0.4.tgz#dcbcadb277bcf6c411ceff70069424c57797d375"
   dependencies:
@@ -1513,7 +1512,7 @@ eslint-plugin-prettier@^4.0.0:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-eslint-plugin-react-hooks@^4.3.0, eslint-plugin-react-hooks@^4.5.0:
+eslint-plugin-react-hooks@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.5.0.tgz#5f762dfedf8b2cf431c689f533c9d3fa5dcf25ad"
 
@@ -2535,14 +2534,12 @@ react-clientside-effect@^1.2.5:
   dependencies:
     "@babel/runtime" "^7.12.13"
 
-react-dom@^16.14.0:
-  version "16.14.0"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.14.0.tgz#7ad838ec29a777fb3c75c3a190f661cf92ab8b89"
+react-dom@^18.2.0:
+  version "18.2.0-next-e531a4a62-20220505"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.2.0-next-e531a4a62-20220505.tgz#1020d2b2088cc4c7bb6420fbbd61178b5338a208"
   dependencies:
     loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
-    scheduler "^0.19.1"
+    scheduler "0.23.0-next-e531a4a62-20220505"
 
 react-fast-compare@3.2.0:
   version "3.2.0"
@@ -2603,13 +2600,11 @@ react-style-singleton@^2.2.0:
     invariant "^2.2.4"
     tslib "^2.0.0"
 
-react@^16.14.0:
-  version "16.14.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
+react@^18.2.0:
+  version "18.2.0-next-e531a4a62-20220505"
+  resolved "https://registry.yarnpkg.com/react/-/react-18.2.0-next-e531a4a62-20220505.tgz#6930b93958232346dd5a20f7104bce70937defde"
   dependencies:
     loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
 
 readable-stream@^3.6.0:
   version "3.6.0"
@@ -2692,12 +2687,11 @@ safe-buffer@~5.1.1:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
 
-scheduler@^0.19.1:
-  version "0.19.1"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.19.1.tgz#4f3e2ed2c1a7d65681f4c854fa8c5a1ccb40f196"
+scheduler@0.23.0-next-e531a4a62-20220505:
+  version "0.23.0-next-e531a4a62-20220505"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.23.0-next-e531a4a62-20220505.tgz#5abc12232066bcf71239005096d03199b77e9f06"
   dependencies:
     loose-envify "^1.1.0"
-    object-assign "^4.1.1"
 
 semver@^5.6.0:
   version "5.7.1"

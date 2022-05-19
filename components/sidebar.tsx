@@ -18,7 +18,6 @@ import {
     MdFavorite,
 } from 'react-icons/md'
 
-import { Item } from 'framer-motion/types/components/Reorder/Item'
 
 const navMenu = [
     {
@@ -40,7 +39,7 @@ const navMenu = [
 
 const musicMenu = [
     {
-        name: 'Creat Playlist',
+        name: 'Create Playlist',
         icon: MdPlaylistAdd,
         route: '/',
     },
@@ -50,8 +49,8 @@ const musicMenu = [
         route: '/favorites',
     },
 ]
+const playlists = new Array(30).fill(1).map((_, i) => 'PlayList ${i+ 1}' )
 
-const playlists = new Array(30).fill(1).map((_, i) => 'PayList ${i + 1}')
 const Sidebar = () => {
   return (
     <Box 
@@ -85,8 +84,7 @@ const Sidebar = () => {
                   ))}
                 </List>  
           </Box>
-          <Divider color="gray.800"/>
-          <Box marginTop="20px">
+          <Box marginBottom="20px">
             <List spacing={2}>
               {musicMenu.map(menu => (
                 <ListItem paddingX="20px" fontSize="16px" key={menu.name}>
@@ -107,7 +105,7 @@ const Sidebar = () => {
             </List>
           </Box>
           <Divider color="gray.800"/>
-          <Box height="66%" overflowY="auto" paddingY="20px">
+          <Box  height="66%" overflowY="auto" paddingY="20px">
            <List spacing={2}>
              {playlists.map((playlist) => (
                <ListItem paddingX="20px" key={playlist}>

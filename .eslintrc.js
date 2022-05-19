@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['next/core-web-vitals', 'airbnb', 'airbnb/hooks', 'prettier'],
+  extends: ['next/core-web-vitals', 'airbnb', 'airbnb/hooks', 'prettier', 'plugin:@typescript-eslint/recommended', 'plugin:react-hooks/recommended'],
   plugins:['react', '@typescript-eslint', 'prettier'],
   evn: {
     browser: true,
